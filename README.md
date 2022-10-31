@@ -41,7 +41,7 @@ https://github.com/Evgeny2835/Explore-with-me/tree/develop
 Сервис совместного использования вещей<br />
 Шеринг-сервис предоставляет возможность предлагать вещи для использования, искать вещи
 по описанию, бронировать с учетом статуса и пр.<br />
-Стек: Java SE, Spring Boot, Hibernate, PostgreSQL, Maven, Docker, Lombok, JDBC, JUnit<br />
+Стек: Java SE, Spring Boot, Hibernate, PostgreSQL, Maven, Docker, Lombok, JDBC, JUnit, mockito<br />
 https://github.com/Evgeny2835/ShareIt
 
 Онлайн кинотеатр<br />
