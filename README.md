@@ -35,7 +35,7 @@
 компанию для участия в них. Своеобразная афиша, где можно предложить событие
 от выставки до похода в кино и набрать компанию для участия в нём.<br />
 Стек: Java SE, Spring Boot, Hibernate, PostgreSQL, Maven, Docker, Lombok, Jackson<br />
-https://github.com/Evgeny2835/Explore-with-me/tree/develop
+https://github.com/Evgeny2835/Explore-with-me
 
 Сервис совместного использования вещей<br />
 Шеринг-сервис предоставляет возможность предлагать вещи для использования, искать вещи
