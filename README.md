@@ -3,17 +3,19 @@
 </div>
 
  <h3>
-  Привет, я Евгений
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Привет, я Евгений, java-разработчик!
 </h3>
 
-#### Обо мне :
+</a>
+<a href="https://t.me/EvgenyMur">
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://vk.com/eatitov">
+  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+</a>
 
- Java-разработчик
+<br />
 
- Как написать мне:
- [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EvgenyMur)
- 
 ---
 
 #### Технологический стек :
@@ -53,4 +55,12 @@ https://github.com/Evgeny2835/Filmorate_11
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
- -->
+
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+#### Обо мне :
+
+ Как написать мне:
+ [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EvgenyMur)
+ 
+-->
