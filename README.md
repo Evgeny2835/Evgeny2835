@@ -16,8 +16,6 @@
 
 <br />
 
----
-
 #### Технологический стек :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -27,8 +25,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <div>
-  
- ---
   
 #### Проекты:
   
@@ -62,5 +58,7 @@ https://github.com/Evgeny2835/Filmorate_11
 
  Как написать мне:
  [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EvgenyMur)
+
+---
  
 -->
