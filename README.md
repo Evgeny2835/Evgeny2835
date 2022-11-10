@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <div>
   
-#### Проекты:
+#### Примеры проектов:
   
 **Бэкенд приложения для организации совместного досуга** <br />
 Предоставляет возможность делиться информацией об интересных событиях и помогать найти
