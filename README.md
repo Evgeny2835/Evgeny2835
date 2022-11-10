@@ -3,15 +3,14 @@
 </div>
 
  <h3>
-  Привет, я Евгений, java-разработчик!
-</h3>
+  Привет, я Евгений, java-разработчик! <br />
+ </h3>
+  Интересуюсь разработкой и поддержкой крупных проектов, где все серьезно, строго и максимально безопасно, клиент которых понимает, что обратился "по адресу", а над реализацией его потребностей работает команда компетентных сотрудников, которые всегды будут для него невидимыми <br />
+<br />
 
 </a>
 <a href="https://t.me/EvgenyMur">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://vk.com/eatitov">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
 
 <br />
@@ -60,6 +59,9 @@ https://github.com/Evgeny2835/ShareIt
  Как написать мне:
  [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EvgenyMur)
 
+<a href="https://vk.com/eatitov">
+  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+</a>
 ---
  
 -->
