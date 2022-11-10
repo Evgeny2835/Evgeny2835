@@ -28,23 +28,25 @@
   
 #### Проекты:
   
-Бэкенд приложения для организации совместного досуга<br />
+**Бэкенд приложения для организации совместного досуга** <br />
 Предоставляет возможность делиться информацией об интересных событиях и помогать найти
 компанию для участия в них. Своеобразная афиша, где можно предложить событие
 от выставки до похода в кино и набрать компанию для участия в нём.<br />
-Стек: Java SE, Spring Boot, Hibernate, PostgreSQL, Maven, Docker, Lombok, Jackson<br />
+Стек: Java SE 11, Spring Boot, Hibernate, PostgreSQL, Maven, Docker, Lombok, Jackson<br />
 https://github.com/Evgeny2835/Explore-with-me
 
-Бэкенд сервиса совместного использования вещей<br />
+**Бэкенд сервиса совместного использования вещей** <br />
 Предоставляет пользователям возможность рассказывать, какими вещами они готовы поделиться, искать нужную вещь и брать её в аренду на время<br />
-Стек: Java SE, Spring Boot, Hibernate, PostgreSQL, Maven, Docker, Lombok, JDBC, JUnit, mockito<br />
+Стек: Java SE 11, Spring Boot, Hibernate, PostgreSQL, Maven, Docker, Lombok, JDBC, JUnit, mockito<br />
 https://github.com/Evgeny2835/ShareIt
 
-Бэкенд онлайн кинотеатра<br />
-Позволяет добавлять, обновлять и получать информацию о пользователях и фильмах, хранить
-информацию в базе данных, валидировать сведения о пользователях и фильмах.<br />
-Стек: Java SE, Spring Boot, Hibernate, h2database, Maven, Lombok, JUnit, SLF4J<br />
-https://github.com/Evgeny2835/Filmorate_11
+**Бэкенд онлайн кинотеатра** <br />
+Позволяет добавлять, обновлять и получать информацию о пользователях и фильмах, ставить лайки, добавлять в друзья, хранить
+информацию в локальной базе данных <br />
+Стек: Java SE 11, Spring Boot, h2database, Maven, Lombok, JUnit, SLF4J<br />
+Две версии проекта: <br />
+основа - индивидуальная разработка: https://github.com/Evgeny2835/Filmorate_11_single <br /> 
+рефакторинг - командная разработка: https://github.com/Evgeny2835/Filmorate_12_team
   
    <!--
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
